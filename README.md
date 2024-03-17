@@ -6,7 +6,7 @@ This software was to help learn English, and it was my father who first proposed
 According to his request, I started to try to make this software, and then I tried to add more functions to it, such as querying the meaning of words, and then creating your own word book, connecting Baidu Translate's API and Baidu Text Recognition API to translate text and recognize text in pictures, and then the current software was completed.
 
 ## Part Ⅱ Installation
-Unzip the wordbook_v2.1 archive in it, and then find the wordbook_v2.1 application file to run, but it should be noted that local text recognition may have a little performance requirements on your computer
+If you want to run it successfully, you should decompress the four packages starting with "gb", create a new folder named "gb_mp3", copy all the files to the "gb_mp3" folder, similarly, create a new "us_mp3" folder, and extract the package starting with "us" and copy its Chinese to the "us_mp3" folder, you also need to unzip the "words" package.What's more, you need to download TTSMaker, the path should be " ./TTSMaker/TTSMakerTTSMaker.exe", so that your program can run normally, and the packaged program is limited by GitHub upload restrictions, please contact me by email to get the software.
 
 ## Part Ⅲ Programming Language
 The programming language is all Python.Pyside6 is used in my application.
